@@ -30,8 +30,4 @@ return
             'charset' => 'utf8',
         ]
     ],
-<<<<<<< HEAD
-=======
-    'version_order' => 'creation'
->>>>>>> 8dbd0f5f8996c79f3cfd67142cfe2283b319979e
 ];
